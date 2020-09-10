@@ -8,6 +8,7 @@ namespace BooksReadApp.Models
 {
     public class Book
     {
+        //get items from Book table
         public int Id { get; set; }
         public string Name { get; set; }
         public string Author { get; set; }

@@ -9,6 +9,7 @@ namespace BooksReadApp.Models
 {
     public class BooksReadContext : DbContext
     {
+        //pass BookContext connection string to base class
         public BooksReadContext() : base("BookContext")
             {
             }

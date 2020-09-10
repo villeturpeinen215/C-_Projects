@@ -21,7 +21,6 @@ namespace BooksReadApp
         {
             BookFrm roomFrm = new BookFrm();
             roomFrm.ShowDialog();
-            Hide();
         }
     }
 }
