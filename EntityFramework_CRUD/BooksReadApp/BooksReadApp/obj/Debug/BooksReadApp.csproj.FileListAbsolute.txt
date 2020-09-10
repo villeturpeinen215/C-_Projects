@@ -1,0 +1,16 @@
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\bin\Debug\BooksReadApp.exe.config
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\bin\Debug\BooksReadApp.exe
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\bin\Debug\BooksReadApp.pdb
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\bin\Debug\EntityFramework.dll
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\bin\Debug\EntityFramework.xml
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\obj\Debug\BooksReadApp.csprojAssemblyReference.cache
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\obj\Debug\BooksReadApp.BookFrm.resources
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\obj\Debug\BooksReadApp.Properties.Resources.resources
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\obj\Debug\BooksReadApp.csproj.GenerateResource.cache
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\obj\Debug\BooksReadApp.csproj.CoreCompileInputs.cache
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\obj\Debug\BooksReadApp.csproj.CopyComplete
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\obj\Debug\BooksReadApp.exe
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\obj\Debug\BooksReadApp.pdb
+C:\Users\Ville\source\repos\BooksReadApp\BooksReadApp\obj\Debug\BooksReadApp.Form1.resources
